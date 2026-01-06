@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { ArrowDown, Github, Linkedin, Mail, Code2, Sparkles } from 'lucide-react';
-import samirProfile from '@/assets/samir-profile.jpg';
+import samirProfile from '@/assets/samir-profile.png';
 
 const HeroSection = () => {
   const floatingIcons = [
